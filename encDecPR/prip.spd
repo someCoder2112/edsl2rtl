@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simPackage>
+ <file path="prip_sim/alt_pr/alt_pr.v" type="VERILOG" library="prip" />
+ <file path="prip_sim/prip.vhd" type="VHDL" />
+ <topLevel name="prip" />
+ <deviceFamily name="cyclonev" />
+</simPackage>
